@@ -37,6 +37,6 @@ from weather_data;
 
 select count(weather)
 from weather_data
-where weather Ilike 'snow%';
+where weather Ilike '%snow%';
 
 
