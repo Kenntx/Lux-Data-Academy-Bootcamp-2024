@@ -1,4 +1,4 @@
-Date/Time,Temp_C,Dew Point Temp_C,Rel Hum_%,Wind Speed_km/h,Visibility_km,Press_kPa,Weather
+Date_Time,Temp_C,Dew_Point_Temp_C,Rel_Hum_percent,Wind_Speed_kmh,Visibility_km,Press_kPa,Weather
 01/01/2012 0:00,-1.8,-3.9,86,4,8,101.24,Fog
 01/01/2012 1:00,-1.8,-3.7,87,4,8,101.24,Fog
 01/01/2012 2:00,-1.8,-3.4,89,7,4,101.26,"Freezing Drizzle,Fog"
